@@ -1,0 +1,117 @@
+﻿Build started 20-Nov-17 1:26:08 AM.
+     1>Project "E:\Third Year\AR&OS\1Assemply Projects\sol sheet 5\sh 5 p2\sh 5 p2.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling ..\..\new Assembly IO Files\io.asm...
+         cmd.exe /C "C:\Users\Islam Abd El Hakim\AppData\Local\Temp\tmp04e31ae3f5c341e8b00dd2c90530beaf.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\io.obj" /W3 /errorReport:prompt  /Ta"..\..\new Assembly IO Files\io.asm"
+       _MASM:
+         Assembling Text.asm...
+         cmd.exe /C "C:\Users\Islam Abd El Hakim\AppData\Local\Temp\tmp70654be2b33e45eea9697f2f1c7a5e2d.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Text.obj" /W3 /errorReport:prompt  /TaText.asm
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(1): error A2008: syntax error : /
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(2): error A2008: syntax error : io
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(3): error A2008: syntax error : *
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(4): error A2008: syntax error : Copyright
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(5): error A2008: syntax error : *
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(6): error A2008: syntax error : *
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(7): error A2008: syntax error : *
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(8): error A2008: syntax error : file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(9): error A2008: syntax error : *
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(10): error A2008: syntax error : *
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(11): error A2008: syntax error : *
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(12): error A2008: syntax error : *
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(14): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(15): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(16): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(17): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(18): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(19): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(20): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(21): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(22): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(23): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(24): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(25): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(26): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(27): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(28): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(29): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(30): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(31): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(32): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(33): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(34): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(35): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(36): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(37): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(38): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(39): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(40): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(41): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(42): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(43): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(44): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(45): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(46): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(47): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(48): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(49): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(50): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(51): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(52): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(53): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(54): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(55): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(56): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(57): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(58): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(59): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(60): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(61): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(62): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(63): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(64): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(65): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(66): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(67): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(68): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(69): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(70): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(71): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(72): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(73): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(74): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(75): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(76): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(77): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(78): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(79): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(80): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(81): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(82): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(83): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(84): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(85): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(86): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(87): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(88): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(89): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(90): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(91): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(92): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(93): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(94): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(95): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(96): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(97): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(98): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(99): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(100): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(101): error A2044: invalid character in file
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h(102): fatal error A1012: error count exceeds 100; stopping assembly
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\BuildCustomizations\masm.targets(49,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Text.obj" /W3 /errorReport:prompt  /TaText.asm" exited with code 1.
+     1>Done Building Project "E:\Third Year\AR&OS\1Assemply Projects\sol sheet 5\sh 5 p2\sh 5 p2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.44
